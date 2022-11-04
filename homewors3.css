@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header{
+    border: 2px solid black;
+    position: relative;
+    height: 100px;
+    width: 500px;
+    top: 100px;
+    left: 150px;
+}
+.logo{
+    margin: 3px;
+    padding: 2px;
+    position: absolute;
+    border: 2px solid black;
+    height: 30px;
+    width: 150px;
+    top: 5px;
+    left: 5px;
+}
+.topmenu{
+    padding: 2px;
+    margin: 3px;
+    position: absolute;
+    border: 2px solid black;
+    height: 30px;
+    width: 70px;
+    top: 5px;
+    right: 5px;
+}
+.menu{
+    margin: 3px;
+    padding: 2px;
+    bottom: 5px;
+    position: absolute;
+    border: 2px solid black;
+    height: 30px;
+    width: 400px;
+    right: 5px;
+
+}
